@@ -27,10 +27,11 @@ author:
   name             : "Anjali Tomerlin"
   pronouns         : # example: "she/her"  
   bio              : "Statistics B.S. at the University of Florida."
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : #none
+  employer         : "University of Florida"
   uri              : # URL
-  email            : "none@example.org" 
+  school email     : "a.tomerlin@ufl.edu" 
+  personal email   : "anjalitomerlin@yahoo.com"
 
   # Academic websites
   academia         : # URL
@@ -57,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
