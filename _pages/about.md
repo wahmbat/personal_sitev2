@@ -15,7 +15,6 @@ I'm really passionate about both the mathematical theory of statistics as well a
 - MHF3202: Sets and Logic
 - MAC2313: Calculus 3
 - STA4321: Probability Theory
-- ENY2040: Introduction to Entomology
 
 Outside of my coursework, I am an undergraduate research assistant at the McGuire Center for Lepidoptera and Biodiversity, an intern at the UF Health Science Center Libraries, a workshop coordinator for UF Data Science & Informatics---UF's largest data science organization---and the math sub-organization director for oSTEM, a club for queer students in STEM! 
 
