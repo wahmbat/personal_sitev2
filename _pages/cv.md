@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 <br>
-<a href="/files/Resume_Tomerlin.pdf" class="btn btn--primary" download>Download Resume (PDF)</a>
+<a href="{{ '/files/Resume_Tomerlin.pdf' | relative_url }}" 
+   class="btn btn--primary" 
+   download>
+   Download Resume (PDF)
+</a>
 <br>
 
 <section id="technical-skills">
