@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Anjali Tomerlin"
   pronouns         : # example: "she/her"  
-  bio              : "Statistics B.S. at the University of Florida."
+  bio              : "Statistics B.S."
   location         : #none
   employer         : "University of Florida"
   uri              : # URL
@@ -280,8 +280,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
