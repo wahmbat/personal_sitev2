@@ -1,7 +1,6 @@
 ---
 title: "Undergraduate Research Assistant (2025-Present) <br> McGuire Center for Lepidoptera and Biodiversity"
-excerpt: "<img src='/images/euptychina.jpg'>"
-collection: portfolio
+excerpt: " <br/><img src='/images/euptychina.jpg'>"
 ---
 
 My research at the McGuire Center, 
