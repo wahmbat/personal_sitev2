@@ -1,34 +1,16 @@
 ---
 layout: archive
-title: "Research Projects"
+title: "Research Experiences"
 permalink: /research/
 author_profile: true
 ---
 
-My research at the McGuire Center for Lepidoptera and Biodiversity, 
-performed as part of UF's Emerging Scholars Program and under the guidance of Dr. Keith
-Willmott, focuses on the creation and analysis 
-of species distribution maps for Neotropical butterflies in the subtribe Euptychiina.
-Part of the challenge of this research is in the incomplete and oftentimes 
-erroneous nature of entomological specimen data. To address this, and make it easier
-for future researchers seeking to create distribution maps, I am working to develop transparent 
-and reproducible workflows in R and QGIS for cleaning, validating, and
-mapping locality data. 
+Click on a research project to learn more:
 
-<br>
-
-Following the creation of these distribution maps, Dr. Willmott and I plan to conduct statistical analysis
-on the emerging patterns in Euptychian species diversity across the Neotropics, specifically in 
-relation to the ecological hypothesis of the mid-domain effect (MDE). The MDE is a proposed null
-model in macroecology which suggests that species richness will peak in the center of a bounded 
-geographical region due to the natural random overlap of species ranges. We plan to investigate this 
-phenomenon by analyzing the degree to which geographic factors, namely the distance from the nearest continental 
-boundary, predicts Euptychian species richness while controlling for other biological and environmental variables.
+{% include base_path %}
 
 
-
-
-
-
-
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 

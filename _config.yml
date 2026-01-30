@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Anjali Tomerlin's Personal Website"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Anjali Tomerlin"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -230,6 +230,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  work:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -273,6 +276,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _work
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
   # _portfolio
   - scope:
       path: ""

@@ -12,11 +12,9 @@ main:
     url: /research/
 
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Work"
     url: /work/
+      
     
   - title: "CV"
     url: /cv/
