@@ -2,6 +2,7 @@
 title: "Undergraduate Intern (2025-Present)<br>UF Health Science Center Libraries"
 excerpt: ""
 ---
+
 <br>
 
 During this internship, I, alongside Dr. Javiera Rudolph, am working on the creation of an open-educational teaching resource on the fundamentals of SIR models. SIR models are a type of differential equation model used by epidemiologists to simulate how populations move between different "compartments" indicating their disease status (suceptible, infectious, and recovered).

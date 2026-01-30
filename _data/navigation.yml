@@ -16,8 +16,8 @@ main:
     url: /work/
       
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume / CV"
+    url: /resume-cv/
     
   # - title: "CV"
   #   url: /cv-json/

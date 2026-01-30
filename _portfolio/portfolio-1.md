@@ -1,9 +1,13 @@
 ---
 title: "Undergraduate Research Assistant (2025–Present) <br> McGuire Center for Lepidoptera and Biodiversity"
 collection: portfolio
-excerpt: ' '
-
 ---
+
+<br>
+
+<div style="text-align: center;">
+  <img src="{{ '/images/euptychina.jpg' | relative_url }}" alt="Euptychina butterfly" />
+</div>
 
 <br>
 
